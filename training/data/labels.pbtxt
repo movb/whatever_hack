@@ -1,0 +1,36 @@
+item {
+  id: 1
+  name: 'armchair'
+}
+item {
+  id: 2
+  name: 'bed'
+}
+item {
+  id: 3
+  name: 'chair'
+}
+item {
+  id: 4
+  name: 'couch'
+}
+item {
+  id: 5
+  name: 'desk'
+}
+item {
+  id: 6
+  name: 'dining_table'
+}
+item {
+  id: 7
+  name: 'lamp'
+}
+item {
+  id: 8
+  name: 'shelf'
+}
+item {
+  id: 9
+  name: 'wardrobe'
+}
